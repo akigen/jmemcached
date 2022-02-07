@@ -11,4 +11,8 @@ public class Response extends AbstractPackage {
     public Response(Status status) {
         this.status = status;
     }
+
+    public Status getStatus() {
+        return status;
+    }
 }
