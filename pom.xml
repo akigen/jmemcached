@@ -9,6 +9,9 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>jmemcached-common</name>
+  <description>jmemcached-common is a common module which implements jmemcached protocol.
+    This project is project for https://www.udemy.com/course/java-se-jmemcached/
+  </description>
   <url>https://www.udemy.com/course/java-se-jmemcached/</url>
 
   <properties>
